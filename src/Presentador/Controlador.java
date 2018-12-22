@@ -48,6 +48,7 @@ public class Controlador {
         Controlador.getInstance().leeArchivo();
         SistemaGestion s = new SistemaGestion();
         s.setVisible(true);
+        System.out.println("prueba");
     }
 
     
