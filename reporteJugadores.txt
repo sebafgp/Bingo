@@ -1,0 +1,31 @@
+Reporte Jugadores
+18856965-K,Isabel Cisternas:0,0
+20267536-0,Matias Arriagada:0,0
+20111540-K,Ignacio Baeza:0,0
+20078409-K,Jose Beroiza:0,0
+20373766-1,Rodrigo Carrasco:0,0
+20150053-2,Aaron Carrasco:0,0
+20363288-6,Cristobal Castro:0,0
+19652535-1,Dominique Del Valle:0,0
+20267751-7,Matias Escarate:0,0
+20373986-9,Rodrigo Espinoza:0,0
+19797847-3,Omar Fernandez:0,0
+19796997-0,Catalina Fernandez:0,0
+19964920-5,Bryan Jara:0,0
+19947353-0,Javier Lopez:0,0
+20076453-6,Claudio Macher:0,0
+20266818-6,Benjamin Manriquez:0,0
+20374043-3,Omar Merino:0,0
+19798207-1,Ismael Miranda:0,0
+20155183-8,Catherine Neira:0,0
+19995240-4,Jose Rivera:0,0
+20111844-1,Nicolas Romero:0,0
+20112413-1,Esteban Ruminot:0,0
+20077281-4,Jose Salas:0,0
+20266812-7,Nicolas Salgado:0,0
+19797153-3,Pablo San Martin:1,0
+20374330-0,Fernando Sanchez:1,0
+20076443-9,Jose Unda:1,0
+20111267-2,Angelica Urra:1,0
+20267077-6,Jorge Vivallo:1,1
+19700779-6,Ricardo Zuniga:1,0

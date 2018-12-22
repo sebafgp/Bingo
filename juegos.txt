@@ -1,0 +1,36 @@
+Lavadora,1,Bingo 1,B
+Cocina,2,Bingo 2,C
+Viaje,3,Bingo 6,D
+Mesa,4,Bingo 4,E
+Premio Sorpresa,5,Bingo 8,F
+Reloj,6,Bingo 5,G
+Torta,7,Bingo 6,H
+Copas,8,Bingo 1,I
+Vasos,9,Bingo 5,J
+Secadora,10,Bingo 8,L
+Alisador,11,Bingo 7,M
+Plancha,12,Bingo 6,N
+Canasta Familiar,13,Bingo 9,O
+Computador,14,Bingo 5,P
+Dvd,15,Bingo 4,R
+Radio,16,Bingo 2,S
+Auto,17,Bingo 4,T
+Moto,18,Bingo 7,U
+Paseo a la piscina,19,Bingo 3,W
+Zapatillas,20,Bingo 9,X
+Espejo,21,Bingo 1,Y
+Patines,22,Bingo 8,Z
+Calcetines,23,Bingo 2,F1
+Guantes,24,Bingo 7,F2
+Bufanda,25,Bingo 4,F3
+Gorro,26,Bingo 3,F4
+Guitarra,27,Bingo 9,F5
+Olla,28,Bingo 3,CB
+Platos,29,Bingo 10,CI
+Cubiertos,30,Bingo 10,CN
+Tv,31,Bingo 3,CG
+Tablet,32,Bingo 8,CO
+Jamon,33,Bingo 10,Cruz
+Gafas,34,Bingo 10,Puntas
+Celular,35,Bingo 7,PuntasCruz
+Casa,36,Bingo 3,Carton

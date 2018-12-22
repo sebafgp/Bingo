@@ -1,0 +1,30 @@
+18856965-K,Isabel Cisternas,01-02-1990
+20267536-0,Matias Arriagada,02-03-1991
+20111540-K,Ignacio Baeza,03-04-1992
+20078409-K,Jose Beroiza,05-06-1993
+20373766-1,Rodrigo Carrasco,06-07-1994
+20150053-2,Aaron Carrasco,07-08-1995
+20363288-6,Cristobal Castro,08-09-1996
+19652535-1,Dominique Del Valle,15-10-1997
+20267751-7,Matias Escarate,09-10-1998
+20373986-9,Rodrigo Espinoza,10-11-1999
+19797847-3,Omar Fernandez,11-12-2000
+19796997-0,Catalina Fernandez,02-01-1999
+19964920-5,Bryan Jara,03-02-1998
+19947353-0,Javier Lopez,04-03-1988
+20076453-6,Claudio Macher,05-04-1997
+20266818-6,Benjamin Manriquez,06-05-1996
+20374043-3,Omar Merino,07-06-1995
+19798207-1,Ismael Miranda,12-05-1944
+20155183-8,Catherine Neira,26-03-1978
+19995240-4,Jose Rivera,14-07-1993
+20111844-1,Nicolas Romero,27-12-1986
+20112413-1,Esteban Ruminot,29-11-2001
+20077281-4,Jose Salas,30-11-1965
+20266812-7,Nicolas Salgado,13-05-1998
+19797153-3,Pablo San Martin,04-07-1973
+20374330-0,Fernando Sanchez,19-02-1989
+20076443-9,Jose Unda,03-12-2002
+20111267-2,Angelica Urra,16-05-1972
+20267077-6,Jorge Vivallo,17-08-1997
+19700779-6,Ricardo Zuniga,01-12-1994
